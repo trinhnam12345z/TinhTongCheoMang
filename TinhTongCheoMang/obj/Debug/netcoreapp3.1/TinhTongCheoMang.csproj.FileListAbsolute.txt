@@ -1,0 +1,12 @@
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.exe
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.deps.json
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.runtimeconfig.json
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.runtimeconfig.dev.json
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.dll
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\bin\Debug\netcoreapp3.1\TinhTongCheoMang.pdb
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.AssemblyInfoInputs.cache
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.AssemblyInfo.cs
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.csproj.CoreCompileInputs.cache
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.dll
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.pdb
+E:\BT C#\TinhTongCheoMang\TinhTongCheoMang\obj\Debug\netcoreapp3.1\TinhTongCheoMang.genruntimeconfig.cache
